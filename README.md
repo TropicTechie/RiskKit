@@ -1,2 +1,3 @@
-# RiskKit
-A practical, well-organized, and regularly updated collection of tools, templates, scripts, guides, and checklists used in real-world IT Risk, Security, and Compliance programs. Think of it as a curated “Swiss Army knife” for IT Risk professionals.
+# RiskKit – The IT Risk & Security Analyst’s Toolbox
+
+Welcome to **RiskKit** – a practical, open-source toolkit for IT Risk Analysts, Cybersecurity professionals, and GRC practitioners. This repository is designed to accelerate your work with ready-to-use templates, scripts, checklists, and guides that you can plug directly into your daily operations.
