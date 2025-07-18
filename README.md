@@ -6,12 +6,12 @@ Welcome to **RiskKit**, your go-to open-source arsenal for navigating the comple
 
 RiskKit is not just a collection of files. It's a framework built from real-world experience across audit prep, risk assessments, policy development, vendor reviews, and technical security monitoring. The goal is to empower professionals and teams with practical tools that are immediately usable, easily customizable, and rooted in industry best practices like NIST, PCI DSS, SOC 2, and more.
 
-Inside this repo, you’ll find:
-
-- ✔️ Templates to fast-track compliance and assessments
-- 🛠️ Automation scripts for auditing and log analysis
-- 📋 Checklists to keep your reviews on track
-- 📊 Dashboards that make risk reporting digestible
-- 📚 Guidance notes to level up your GRC skills
-
 Whether you're building a risk register from scratch, preparing for an audit, or visualizing anomalous logins in Splunk - RiskKit is here to help.
+
+## Contribution
+
+Contributions are welcome! Please review the [CONTRIBUTING](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before getting started.
+
+## License
+
+RiskKit is released under the [MIT License](LICENSE.md)
